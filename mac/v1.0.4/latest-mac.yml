@@ -1,0 +1,11 @@
+version: 1.0.4
+files:
+  - url: Kestroll-1.0.4-mac-universal.zip
+    sha512: wTyZl3hkvE6zuRydRyN27EsU+hOoiMIGRDP7PbhxDlyqIXBzvSGpCxp/q7CWoHmfSpYq7MuBV+tlrmnZV3gkxg==
+    size: 170471768
+  - url: Kestroll-1.0.4-mac-universal.dmg
+    sha512: /m1YPceYB/2IU0OqageUwSeHTROiP6kOEiqHlhFlQgfy6GS3EE35UhhabkFR5O6CbjRhaiIY5S6CtGquqFOZIQ==
+    size: 177125625
+path: Kestroll-1.0.4-mac-universal.zip
+sha512: wTyZl3hkvE6zuRydRyN27EsU+hOoiMIGRDP7PbhxDlyqIXBzvSGpCxp/q7CWoHmfSpYq7MuBV+tlrmnZV3gkxg==
+releaseDate: '2025-06-29T17:33:45.447Z'
