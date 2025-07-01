@@ -1,0 +1,8 @@
+version: v1.0.8
+files:
+  - url: https://github.com/kestroll-org/app-releases/releases/download/v1.0.8/Kestroll-1.0.7-mac-universal.dmg
+    sha512: 9c95d3a7eb331800645b43f92453f2954e3c0987f7c9863c31060195dc001502f92f44c5052cb7c7704b785c9d3bcdcdc8e2ac167174a36cffc75704cbc7e26b
+    size: 177260182
+path: https://github.com/kestroll-org/app-releases/releases/download/v1.0.8/Kestroll-1.0.7-mac-universal.dmg
+sha512: 9c95d3a7eb331800645b43f92453f2954e3c0987f7c9863c31060195dc001502f92f44c5052cb7c7704b785c9d3bcdcdc8e2ac167174a36cffc75704cbc7e26b
+releaseDate: 2025-07-01T20:18:27.000Z
