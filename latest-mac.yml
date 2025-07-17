@@ -1,8 +1,8 @@
-version: v1.0.13
+version: v1.0.14
 files:
-  - url: https://github.com/kestroll-org/app-releases/releases/download/v1.0.13/mac/v1.0.13/Kestroll-1.0.12-mac-universal.dmg
-    sha512: e199341f9489984d4b4d0c1b54bfb3eb2e736d09e116d3cec77c9f06f50312b9610ac18613f2f0949dce1dba342f48da75c4dd19a4cd11041e25bf7c1eb5ccd4
-    size: 183064872
-path: https://github.com/kestroll-org/app-releases/releases/download/v1.0.13/mac/v1.0.13/Kestroll-1.0.12-mac-universal.dmg
-sha512: e199341f9489984d4b4d0c1b54bfb3eb2e736d09e116d3cec77c9f06f50312b9610ac18613f2f0949dce1dba342f48da75c4dd19a4cd11041e25bf7c1eb5ccd4
-releaseDate: 2025-07-16T22:47:08.000Z
+  - url: https://github.com/kestroll-org/app-releases/releases/download/v1.0.14/mac/v1.0.14/Kestroll-1.0.14-mac-universal.dmg
+    sha512: 8bf84ccbe5b79ced8a23cfb5759efb2da2b1bfde23a07ec7512fcba287bb85f5cc0edaa45e559ff682405ed254f661b375a4456de1f1a32e38607963871bc157
+    size: 183083924
+path: https://github.com/kestroll-org/app-releases/releases/download/v1.0.14/mac/v1.0.14/Kestroll-1.0.14-mac-universal.dmg
+sha512: 8bf84ccbe5b79ced8a23cfb5759efb2da2b1bfde23a07ec7512fcba287bb85f5cc0edaa45e559ff682405ed254f661b375a4456de1f1a32e38607963871bc157
+releaseDate: 2025-07-17T05:25:24.000Z
